@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### - 🤔 I’m seeking a job in New Zealand
 - 🌱 I’m currently learning React, React Native, Azure, .Net Core, etc.
-- 😄 Pronouns: Coding is Fun! 
+- 😄 Pronouns: Coding is Fun!
 - 📫 How to reach me: Email: heshan.chiu@gmail.com  LinkedIn: www.linkedin.com/in/heshan-qiu/
 
 <!--
