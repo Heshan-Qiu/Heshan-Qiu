@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning React, React Native, Azure, .Net Core, etc.
 - 😄 Pronouns: Coding is Fun!
 - 📫 How to reach me: Email: heshan.chiu@gmail.com
-                      LinkedIn: www.linkedin.com/in/heshan-qiu
-                      Medium: https://medium.com/@heshan.qiu
+<br>                      LinkedIn: www.linkedin.com/in/heshan-qiu
+<br>                      Medium: https://medium.com/@heshan.qiu
 
 <!--
 **Heshan-Qiu/Heshan-Qiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
