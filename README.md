@@ -2,9 +2,7 @@
 ### - 🤔 I’m seeking a job in New Zealand
 - 🌱 I’m currently learning React, React Native, Azure, .Net Core, etc.
 - 😄 Pronouns: Coding is Fun!
-- 📫 How to reach me: Email: heshan.chiu@gmail.com
-<br>                      LinkedIn: www.linkedin.com/in/heshan-qiu
-<br>                      Medium: https://medium.com/@heshan.qiu
+- 📫 How to reach me: <ul><li>Email: heshan.chiu@gmail.com</li><li>LinkedIn: www.linkedin.com/in/heshan-qiu</li><li>Medium: https://medium.com/@heshan.qiu</li></ul>
 
 <!--
 **Heshan-Qiu/Heshan-Qiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
